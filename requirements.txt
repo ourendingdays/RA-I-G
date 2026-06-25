@@ -1,0 +1,14 @@
+# Python dependencies for the project.
+datasets>=2.20
+matplotlib>=3.11.0
+numpy>=1.26
+pandas>=3.0.3
+pydantic>=2.0
+pydantic-settings>=2.0
+scikit-learn>=1.9.0
+torch>=2.4
+transformers>=4.40
+
+# AI Agents (uncomment as needed)
+# anthropic>=0.40
+# openai>=1.0

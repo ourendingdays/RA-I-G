@@ -1,0 +1,21 @@
+3.6: Eclipses
+An eclipse is an event that happens when one body is temporarily hidden, either by passing into the shadow of another body or by
+having another body pass between it and the observer.
+Lunar Eclipses
+A lunar eclipse occurs when Earth lies directly between the Sun and the Moon, so that Earth’s shadow falls on the Moon. A lunar
+eclipse can only occur at full Moon. There are three types of lunar eclipses: Penumbral, Partial, and Total. The type of lunar eclipse
+depends on how far the Moon travels into Earth’s shadow. The entire night side of Earth can see the lunar eclipse. Total lunar
+eclipses can vary in color and brightness due to Earth’s atmosphere and how deep the Moon passes into Earth’s shadow; Red to
+Copper to Orange to Black. The colors can be quite varied and spectacular.
+A Solar Eclipse occurs when the Moon comes between the Earth and the Sun, partially or totally blocking off the Sun from view on
+Earth. A solar eclipse can only occur at new Moon (whereas a lunar eclipse can only occur at full moon). There are four types of
+solar eclipses:
+1. You must be within the eclipse “zone” to see even a partial solar eclipse.
+Total Solar Eclipses
+During a total solar eclipse, the Moon totally blocks all harmful solar light and radiation at totality but not during partial. Totality is
+the phase of the eclipse at which the Sun is completely covered by the Moon. Right before totality, you might be able to see several
+stars and planets as the sky begins to darken due to decreasing sunlight. At totality, daytime becomes nighttime; the Moon’s
+shadow passes over your site and you will see colors around the horizon, called the sunrise/sunset effect. Occasionally you might
+see bands of black and white running across the ground right before and after totality; these are called shadow bands and are due to
+Earth’s atmosphere. Animals often react as if it has become nighttime.
+3.6.1 https://phys.libretexts.org/@go/page/64095

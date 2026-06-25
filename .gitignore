@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment files (NEVER commit secrets)
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Data and model artifacts (large, generated, or sensitive)
+data/raw/*
+data/interim/*
+data/processed/*
+data/cache/*
+data/embeddings/*
+data/vectordb/*
+!data/**/.gitkeep
+!data/README.md
+
+models/*
+!models/.gitkeep
+!models/README.md
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Logs
+*.log
