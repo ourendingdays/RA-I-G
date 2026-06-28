@@ -27,13 +27,10 @@ env/
 .DS_Store
 
 # Data and model artifacts (large, generated, or sensitive)
+data/*
 data/raw/*
-data/interim/*
-data/processed/*
-data/cache/*
-data/embeddings/*
-data/vectordb/*
-!data/**/.gitkeep
+data/test/*
+data/train/*
 !data/README.md
 
 models/*
