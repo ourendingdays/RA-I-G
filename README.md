@@ -1,10 +1,10 @@
-# RA-I-G
+# RA(I)G
 
 A collection of Retrieval-Augmented Generation practices, gathered together in a form of notebooks and Web Application.
 
 ## Overview
 
-RA-I-G provides comprehensive tools and utilities for building scalable systems with modern development practices.
+RA(I)G provides comprehensive tools and utilities for building scalable systems with modern development practices.
 
 ## Getting started
 
